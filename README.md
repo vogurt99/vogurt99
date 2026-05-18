@@ -17,6 +17,6 @@ I'm Samuel Jericho Gomez, a student at Brigham Young University-Idaho interested
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/samuel-jericho-gomez-3869a840a/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/samuel-jericho-gomez-3869a840a/) profile.
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding!
