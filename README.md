@@ -8,6 +8,7 @@ I'm Samuel Jericho Gomez, a student at Brigham Young University-Idaho interested
 
 - I'm currently learning full-stack web development and database design and management.
 - My goals are to integrate modern data-driven systems into local, community-led agroforestry initiatives in the Philippines.
+- My past projects include database creation and management, automated enterprise scale system registration and logging, and full-stack web development.
 - Ask me about what project I am working on now! I am always trying something new.
 
 ## Technologies and Tools
